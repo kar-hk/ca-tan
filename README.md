@@ -17,7 +17,7 @@ A real-time multiplayer implementation of the classic Settlers of Catan board ga
 
 ## 🎮 How to Play
 
-1. **Game link** - https://catan-game-0x1s.onrender.com
+1. **Play Now** → [https://catan-henna.vercel.app](https://catan-henna.vercel.app)
 2. **Create or Join** - One player creates a game and shares the 6-letter code
 3. **Setup Phase** - Each player places 2 settlements and 2 roads
 4. **Main Game** - Roll dice, collect resources, build, and trade
@@ -51,9 +51,21 @@ Open http://localhost:5173 in your browser.
 
 ## 🌐 Deployment
 
-### Deployed to Render.com (Free tier - 0.1 cpu)
-Link: https://catan-game-0x1s.onrender.com
-Note that first request to backend might be slow (up to 30 seconds) because it is a free tier. After that, everything should be fast (not tested for increased load) and smooth.
+**Live Game:** [https://catan-henna.vercel.app](https://catan-henna.vercel.app)
+
+| Component | Platform | URL |
+|-----------|----------|-----|
+| Frontend | Vercel | https://catan-henna.vercel.app |
+| Backend | Render | https://catan-server-oc59.onrender.com |
+
+### ⚠️ Free Tier Notice
+
+This deployment uses **free hosting tiers** with the following limitations:
+- Server may take 30-60 seconds to wake up on first request
+- Limited to ~200 concurrent players and ~50 active games
+- Server may experience slowdowns during high traffic
+
+**For uninterrupted gameplay**, consider deploying your own private instance using the instructions above. Fork this repository and deploy to your own Vercel/Render accounts for a dedicated experience.
 
 ## 🛠️ Tech Stack
 
