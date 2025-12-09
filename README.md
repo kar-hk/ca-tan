@@ -61,7 +61,7 @@ http://localhost:5173
 
 ## 🌐 Deployment
 
-> ⚠️ Live deployment not added yet.  
+>  Live deployment is added: https://ca-tan-gold.vercel.app/.  
 You can deploy using:
 - **Frontend:** Vercel  
 - **Backend:** Render / Railway  
