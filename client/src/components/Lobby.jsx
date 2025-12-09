@@ -160,7 +160,7 @@ function Lobby({ onCreateGame, onJoinGame, error, setError }) {
 
         <div className="lobby-footer">
           <p>2-6 Players • First to 10 Victory Points Wins</p>
-          <p className="credits">Created by <span className="creator-name">Viral Doshi</span></p>
+          <p className="credits">Created by <span className="creator-name">Hanishkar& Keshav Raja</span></p>
         </div>
       </div>
       
