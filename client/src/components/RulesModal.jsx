@@ -193,7 +193,7 @@ With more players, resources become more scarce. Focus on building efficiently a
         <button className="rules-close-btn" onClick={onClose}>×</button>
         
         <div className="rules-header">
-          <h2>📜 Catan Rules</h2>
+          <h2>📜 Catanpoly Rules</h2>
         </div>
         
         <div className="rules-container">

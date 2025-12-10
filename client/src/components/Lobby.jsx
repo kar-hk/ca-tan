@@ -43,7 +43,7 @@ function Lobby({ onCreateGame, onJoinGame, error, setError }) {
       
       <div className="lobby-content">
         <div className="lobby-header">
-          <h1>CATAN</h1>
+          <h1>CATANPOLY</h1>
           <p className="subtitle">Online Multiplayer</p>
         </div>
 
