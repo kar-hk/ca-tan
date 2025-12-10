@@ -179,7 +179,7 @@ function App() {
     return (
       <div className="loading-screen server-full">
         <div className="loading-content">
-          <h1>CATAN</h1>
+          <h1>CATANPOLY</h1>
           <div className="server-full-icon">🏰</div>
           <h2>Server at Capacity</h2>
           <p>Too many players are currently online!</p>
@@ -199,7 +199,7 @@ function App() {
     return (
       <div className="loading-screen">
         <div className="loading-content">
-          <h1>CATAN</h1>
+          <h1>CATANPOLY</h1>
           <p>Connecting to server...</p>
           <div className="loading-spinner"></div>
         </div>
